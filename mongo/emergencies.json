@@ -1,0 +1,12 @@
+[
+  {
+    "_id": {"$oid": "66f0c2a1f3a4b27d8a127001"},
+    "workerId": "66f0c2a1f3a4b27d8a123003",
+    "type": "SOS",
+    "location": "Site A",
+    "photoUrl": "https://example.com/photo.jpg",
+    "assignedTo": "66f0c2a1f3a4b27d8a123002",
+    "status": "Open",
+    "timestamp": "2025-09-19T10:00:00Z"
+  }
+]

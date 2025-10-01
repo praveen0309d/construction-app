@@ -1,0 +1,18 @@
+[
+  {
+    "_id": {"$oid": "66f0c2a1f3a4b27d8a124001"},
+    "workerId": "66f0c2a1f3a4b27d8a123003",
+    "date": "2025-09-19",
+    "status": "Present",
+    "checkIn": "08:30",
+    "checkOut": "17:00"
+  },
+  {
+    "_id": {"$oid": "66f0c2a1f3a4b27d8a124002"},
+    "workerId": "66f0c2a1f3a4b27d8a123003",
+    "date": "2025-09-18",
+    "status": "Late",
+    "checkIn": "09:15",
+    "checkOut": "17:00"
+  }
+]

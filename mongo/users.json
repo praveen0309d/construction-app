@@ -1,0 +1,23 @@
+[
+  {
+    "_id": { "$oid": "66f0c2a1f3a4b27d8a123001" },
+    "name": "Sadik",
+    "email": "sadik@gmail.com",
+    "password": "sadik123",
+    "role": "Worker"
+  },
+  {
+    "_id": { "$oid": "66f0c2a1f3a4b27d8a123002" },
+    "name": "Tamil",
+    "email": "tamil@gmail.com",
+    "password": "tamil123",
+    "role": "Supervisor"
+  },
+  {
+    "_id": { "$oid": "66f0c2a1f3a4b27d8a123003" },
+    "name": "Praveen",
+    "email": "praveen@example.com",
+    "password": "praveen123",
+    "role": "Manager"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "_id": { "$oid": "66f0c3b2f3a4b27d8a123101" },
+    "taskName": "Lay Foundation",
+    "assignedTo": "ravi@example.com",
+    "deadline": "2025-09-30",
+    "status": "Pending"
+  },
+  {
+    "_id": { "$oid": "66f0c3b2f3a4b27d8a123102" },
+    "taskName": "Check Safety Compliance",
+    "assignedTo": "sita@example.com",
+    "deadline": "2025-09-22",
+    "status": "In Progress"
+  },
+  {
+    "_id": { "$oid": "66f0c3b2f3a4b27d8a123103" },
+    "taskName": "Review Progress Report",
+    "assignedTo": "amit@example.com",
+    "deadline": "2025-09-25",
+    "status": "Not Started"
+  }
+]

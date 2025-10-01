@@ -1,0 +1,10 @@
+[
+  {
+    "_id": {"$oid": "66f0c2a1f3a4b27d8a126001"},
+    "workerId": "66f0c2a1f3a4b27d8a123003",
+    "helmet": true,
+    "vest": false,
+    "violations": ["No vest"],
+    "timestamp": "2025-09-19T09:30:00Z"
+  }
+]
